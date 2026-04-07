@@ -1,6 +1,6 @@
 # Password Strength Analyzer (C)
 
-This project analyzes the strength of a password using multiple criteria and provides a score along with suggestions for improvement.
+This project analyzes the strength of a password using multiple criteria and provides a score along with suggestions.
 
 ## Features
 - Calculates password strength score (0–5)
@@ -8,7 +8,23 @@ This project analyzes the strength of a password using multiple criteria and pro
 - Provides strength levels (Weak, Medium, Strong)
 - Suggests improvements for better security
 
-## Technology
+## How it Works
+The program checks the password based on:
+- Length
+- Character types (uppercase, lowercase, numbers, symbols)
+
+## Example
+
+Input: abc123  
+
+Output:
+Password Score: 2/5  
+Strength: Weak  
+
+Suggestions:
+- Increase length  
+- Add uppercase letters  
+- Add special characters
+
+## Technology Used
 - C Programming
-
-
