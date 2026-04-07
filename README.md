@@ -11,5 +11,4 @@ This project analyzes the strength of a password using multiple criteria and pro
 ## Technology
 - C Programming
 
-##Author
-- Eathala Chaitanya Rajkumar 
+
